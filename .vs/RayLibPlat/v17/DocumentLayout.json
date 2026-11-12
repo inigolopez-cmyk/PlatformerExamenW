@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Brick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Brick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Brick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Brick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Stair.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Stair.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Stair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Stair.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\RayLibPlat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\RayLibPlat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Stair.cpp",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Stair.cpp",
+              "RelativeDocumentMoniker": "RayLibPlat\\Stair.cpp",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Stair.cpp",
+              "RelativeToolTip": "RayLibPlat\\Stair.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T16:09:12.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stair.h",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Stair.h",
+              "RelativeDocumentMoniker": "RayLibPlat\\Stair.h",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Stair.h",
+              "RelativeToolTip": "RayLibPlat\\Stair.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T16:09:09.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Wall.cpp",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Wall.cpp",
+              "RelativeDocumentMoniker": "RayLibPlat\\Wall.cpp",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Wall.cpp",
+              "RelativeToolTip": "RayLibPlat\\Wall.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T15:43:28.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Wall.h",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Wall.h",
+              "RelativeDocumentMoniker": "RayLibPlat\\Wall.h",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Wall.h",
+              "RelativeToolTip": "RayLibPlat\\Wall.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T15:43:24.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Brick.cpp",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Brick.cpp",
+              "RelativeDocumentMoniker": "RayLibPlat\\Brick.cpp",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Brick.cpp",
+              "RelativeToolTip": "RayLibPlat\\Brick.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T15:16:01.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Brick.h",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Brick.h",
+              "RelativeDocumentMoniker": "RayLibPlat\\Brick.h",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Brick.h",
+              "RelativeToolTip": "RayLibPlat\\Brick.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T15:15:48.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tile.cpp",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Tile.cpp",
+              "RelativeDocumentMoniker": "RayLibPlat\\Tile.cpp",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Tile.cpp",
+              "RelativeToolTip": "RayLibPlat\\Tile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-09T15:39:36.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tile.h",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Tile.h",
+              "RelativeDocumentMoniker": "RayLibPlat\\Tile.h",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Tile.h",
+              "RelativeToolTip": "RayLibPlat\\Tile.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-09T15:32:06.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Player.cpp",
+              "RelativeDocumentMoniker": "RayLibPlat\\Player.cpp",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Player.cpp",
+              "RelativeToolTip": "RayLibPlat\\Player.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T16:22:20.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Character.cpp",
+              "RelativeDocumentMoniker": "RayLibPlat\\Character.cpp",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Character.cpp",
+              "RelativeToolTip": "RayLibPlat\\Character.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-09T16:11:48.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.h",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Character.h",
+              "RelativeDocumentMoniker": "RayLibPlat\\Character.h",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Character.h",
+              "RelativeToolTip": "RayLibPlat\\Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-09T16:11:44.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Game.cpp",
+              "RelativeDocumentMoniker": "RayLibPlat\\Game.cpp",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Game.cpp",
+              "RelativeToolTip": "RayLibPlat\\Game.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T17:07:56.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Game.h",
+              "RelativeDocumentMoniker": "RayLibPlat\\Game.h",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\Game.h",
+              "RelativeToolTip": "RayLibPlat\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-29T17:06:17.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RayLibPlat.cpp",
+              "DocumentMoniker": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\RayLibPlat.cpp",
+              "RelativeDocumentMoniker": "RayLibPlat\\RayLibPlat.cpp",
+              "ToolTip": "D:\\2ndo Trimestre\\POO\\RayLibPlat\\RayLibPlat-Warcos-main\\RayLibPlat-Warcos-main\\RayLibPlat\\RayLibPlat.cpp",
+              "RelativeToolTip": "RayLibPlat\\RayLibPlat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-29T16:40:45.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
